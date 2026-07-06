@@ -1,5 +1,5 @@
 # Predicting-US-Flight-Demand
-This project combines supervised regression and time-series forecasting with clustering to produce a two-stage analytical picture of US passenger demand. View my [report](https://dan-a-rama.neocities.org/project-pdfs/Where%20to%20Fly%20Next%20-%20Predicting%20and%20Segmenting%20US%20Domestic%20Passenger%20Demand%20%5BReport%5D.pdf) and [presentation PDF](https://dan-a-rama.neocities.org/project-pdfs/Where%20to%20Fly%20Next%20-%20Predicting%20and%20Segmenting%20US%20Domestic%20Passenger%20Demand%20%5BPresentation%5D.pdf) for additional information!
+This project combines supervised regression and time-series forecasting with clustering to produce a two-stage analytical picture of US passenger demand. View the following [report](https://dan-a-rama.neocities.org/project-pdfs/Where%20to%20Fly%20Next%20-%20Predicting%20and%20Segmenting%20US%20Domestic%20Passenger%20Demand%20%5BReport%5D.pdf) and [presentation PDF](https://dan-a-rama.neocities.org/project-pdfs/Where%20to%20Fly%20Next%20-%20Predicting%20and%20Segmenting%20US%20Domestic%20Passenger%20Demand%20%5BPresentation%5D.pdf) for additional information!
 
 # Instructions To Run The Project
 The following steps provide the easiest way to run the project:
